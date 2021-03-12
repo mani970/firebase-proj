@@ -1,5 +1,5 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from "react"; //real dom
+import ReactDOM from "react-dom"; //virtual dom
 import "bootstrap/dist/css/bootstrap.css";
 import "jquery/dist/jquery";
 import "popper.js/dist/popper";

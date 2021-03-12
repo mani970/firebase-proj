@@ -5,13 +5,12 @@ import "firebase/database";
 import "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBBzOnD3MYcgbH3BkREdSAxFzl5Sw7qRwI",
-  authDomain: "project-6917f.firebaseapp.com",
-  databaseURL: "https://project-6917f-default-rtdb.firebaseio.com",
-  projectId: "project-6917f",
-  storageBucket: "project-6917f.appspot.com",
-  messagingSenderId: "766628732538",
-  appId: "1:766628732538:web:2c2db9bde82bc19af625c3",
+  apiKey: "AIzaSyBgYB9PmiawndVeE4KXjzQiKp0abTTWD8",
+  authDomain: "fir-auth-8adb0.firebaseapp.com",
+  projectId: "fir-auth-8adb0",
+  storageBucket: "fir-auth-8adb0.appspot.com",
+  messagingSenderId: "310046372282",
+  appId: "1:766628732538:web:72f3aa08e86b111f6ced83",
 };
 
 firebase.initializeApp(firebaseConfig);
